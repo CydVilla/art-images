@@ -1,6 +1,5 @@
 // Run on every commit
 // Grab all the images from the images folder
-// Create 100 x 100 px thumbnails
 // Save them all to a folder /thumbnails
 
 const fs = require("fs").promises;
