@@ -1,6 +1,6 @@
 // Run on every commit
 // Grab all the images from the images folder
-// Save them all to a folder /thumbnails
+// Save them all to /thumbnails
 
 const fs = require("fs").promises;
 const path = require("path");
