@@ -1,0 +1,6 @@
+{
+    "prettier": {},
+    "dependencies": {
+        "sharp": "^0.32.1"
+    }
+}
