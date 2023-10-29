@@ -5,4 +5,3 @@ This repo is to:
 - generate thumbnails so that i can improve load time on the main website 
 
 From here I'll export them
-# art-images
